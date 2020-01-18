@@ -1,5 +1,8 @@
 # useFindIndex
 Custome Hook to find index base on row and state's data.
+
+*This code totally breaking the Hook's rules so pls make sure disable eslint rule*
+`// eslint-disable-next-line react-hooks/rules-of-hooks`
 ### Example 
 ```js
 import React, { useState } from "react";
